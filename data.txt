@@ -1,3 +1,4 @@
 Name: Diogo Monteiro
 Age: 23
+Height: 190cm
 Favorite Color: Black
